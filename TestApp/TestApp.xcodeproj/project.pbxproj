@@ -15,6 +15,7 @@
 		71649FB9215EC3EA008C5BA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71649FB7215EC3EA008C5BA4 /* LaunchScreen.storyboard */; };
 		71649FC4215EC3EB008C5BA4 /* TestAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71649FC3215EC3EB008C5BA4 /* TestAppTests.swift */; };
 		71649FCF215EC3EB008C5BA4 /* TestAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71649FCE215EC3EB008C5BA4 /* TestAppUITests.swift */; };
+		71649FE12164EA78008C5BA4 /* DKDropMenu.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 71649FE02164EA78008C5BA4 /* DKDropMenu.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		71649FCA215EC3EB008C5BA4 /* TestAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		71649FCE215EC3EB008C5BA4 /* TestAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAppUITests.swift; sourceTree = "<group>"; };
 		71649FD0215EC3EB008C5BA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71649FE02164EA78008C5BA4 /* DKDropMenu.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = DKDropMenu.podspec; path = ../../../DKDropMenu/DKDropMenu.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				71649FAC215EC3E8008C5BA4 /* AppDelegate.swift */,
+				71649FE02164EA78008C5BA4 /* DKDropMenu.podspec */,
 				71649FAE215EC3E8008C5BA4 /* FirstViewController.swift */,
 				71649FB0215EC3E8008C5BA4 /* SecondViewController.swift */,
 				71649FB2215EC3E8008C5BA4 /* Main.storyboard */,
@@ -235,6 +238,7 @@
 				71649FB9215EC3EA008C5BA4 /* LaunchScreen.storyboard in Resources */,
 				71649FB6215EC3EA008C5BA4 /* Assets.xcassets in Resources */,
 				71649FB4215EC3E8008C5BA4 /* Main.storyboard in Resources */,
+				71649FE12164EA78008C5BA4 /* DKDropMenu.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
